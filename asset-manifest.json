@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/curriculum-comparison/static/css/main.35f12500.css",
-    "main.js": "/curriculum-comparison/static/js/main.7862b529.js",
+    "main.css": "/curriculum-comparison/static/css/main.6af6fd6a.css",
+    "main.js": "/curriculum-comparison/static/js/main.faccb25e.js",
     "static/js/453.e042bec3.chunk.js": "/curriculum-comparison/static/js/453.e042bec3.chunk.js",
     "index.html": "/curriculum-comparison/index.html",
-    "main.35f12500.css.map": "/curriculum-comparison/static/css/main.35f12500.css.map",
-    "main.7862b529.js.map": "/curriculum-comparison/static/js/main.7862b529.js.map",
+    "main.6af6fd6a.css.map": "/curriculum-comparison/static/css/main.6af6fd6a.css.map",
+    "main.faccb25e.js.map": "/curriculum-comparison/static/js/main.faccb25e.js.map",
     "453.e042bec3.chunk.js.map": "/curriculum-comparison/static/js/453.e042bec3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35f12500.css",
-    "static/js/main.7862b529.js"
+    "static/css/main.6af6fd6a.css",
+    "static/js/main.faccb25e.js"
   ]
 }
